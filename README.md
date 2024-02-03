@@ -10,7 +10,7 @@ To participate you must be on the [`Dev Basement`](https://dev.to/danielhe4rt/im
 
 ## Dating
 
-Meetings take place every `Wednesday at 7pm`. We gathered on the voice channel to share our opinions on the current read.
+Meetings take place every `Thursday at 7PM`. We gathered on the voice channel to share our opinions on the current read.
 
 ## What will you learn
 
