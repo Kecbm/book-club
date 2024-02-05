@@ -55,4 +55,4 @@ Furthermore, you will also increase your network, meeting other developers aroun
 
 ---
 
-<p align="center">Developed with 🫀 perr<a href="https://www.linkedin.com/in/kecbm/" target="_blank" rel="noopener noreferrer">Klecianny Melo</a> 😁</p>
+<p align="center">Developed with 🫀 per <a href="https://www.linkedin.com/in/kecbm/" target="_blank" rel="noopener noreferrer">Klecianny Melo</a> 😁</p>
