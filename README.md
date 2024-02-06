@@ -13,7 +13,7 @@ Repository to document `Book Club` discussions on the `Dev Basement` server.
 
 The book that is currently being discussed is:
 
-[Craking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+[Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 
 <br>
 <br>
